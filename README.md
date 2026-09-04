@@ -34,10 +34,12 @@ I am an undergraduate AI researcher at **FudanNLP Alex Lab, Fudan University**, 
   </tr>
 </table>
 
-## Contribution trail
+## Contribution decision landscape
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-snake.svg">
-  <img alt="Animated contribution trail" src="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-landscape-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-landscape.svg">
+  <img alt="A 52-week decision landscape generated from public GitHub contributions" src="https://raw.githubusercontent.com/JunjieNian/JunjieNian/output/contribution-landscape.svg">
 </picture>
+
+<sub>Each node is one week. Height, glow, and node size encode public activity; the landscape is regenerated daily.</sub>
