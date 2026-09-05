@@ -10,7 +10,7 @@
   <a href="mailto:jjnian24@m.fudan.edu.cn"><b>Email</b></a>
 </p>
 
-I am an undergraduate AI researcher at **FudanNLP Alex Lab, Fudan University**, advised by [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage), and a 2026–2027 exchange student in Computer Science & Engineering at **UC San Diego**. I study how reasoning unfolds, where agent trajectories fail, and how internal signals can guide better decisions. Recent work includes [ARM](https://arxiv.org/abs/2601.07309) at **EMNLP 2026** and [Thinking Traps in Long Chain-of-Thought](https://aclanthology.org/2026.findings-acl.1930.pdf) in **Findings of ACL 2026**.
+I am an undergraduate AI researcher at **FudanNLP Alex Lab, Fudan University**, advised by [Prof. Yixin Cao](https://sites.google.com/view/yixin-homepage), and a 2026 Fall exchange student in Computer Science & Engineering at **UC San Diego**. I study how reasoning unfolds, where agent trajectories fail, and how internal signals can guide better decisions. Recent work includes [ARM](https://arxiv.org/abs/2601.07309) at **EMNLP 2026** and [Thinking Traps in Long Chain-of-Thought](https://aclanthology.org/2026.findings-acl.1930.pdf) in **Findings of ACL 2026**.
 
 ## Research in focus
 
